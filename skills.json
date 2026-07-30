@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "description": "Catálogo Oficial de Habilidades do Assistente do Jorge",
+  "skills": [
+    {
+      "id": "SKILL-GERAL-001",
+      "slug": "geral",
+      "name": "Consulta Livre",
+      "category": "Geral",
+      "file": "skills/geral/SKILL.md"
+    },
+    {
+      "id": "SKILL-GESTAOGOV-001",
+      "slug": "gestaogov",
+      "name": "Validador IMGG 100 Pontos",
+      "category": "Governança",
+      "file": "skills/gestaogov/SKILL.md",
+      "references": [
+        "skills/gestaogov/references/GUIA IMGG.md",
+        "skills/gestaogov/references/Portaria_7383.md",
+        "skills/gestaogov/references/manual_do_usuario.md",
+        "skills/gestaogov/references/modelo_de_governanca.md"
+      ]
+    }
+  ]
+}
