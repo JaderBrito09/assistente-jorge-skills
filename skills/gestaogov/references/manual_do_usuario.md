@@ -19,24 +19,19 @@ Este documento fornece orientações sobre as principais telas e funcionalidades
 * Coordenador de Rede de Parcerias Municipal.
 Atenção! Este documento orienta quanto aos principais menus e telas do Sistema Gestaopublicagov.br, assim, para os procedimentos para aplicação do Instrumento de Maturidade de Governança e Gestão - IMGG 100 pontos (IMGG), consulte o Guia do Instrumento de Maturidade deGovernança e Gestão - IMGG 100 pontos, no Portal Transferegov.br, na sessão dedicada ao
 Gestaopublica.gov.br, disponível em https://www.gov.br/transferegov/pt-br/modelo/sobre/sobre-modelo.
- 
+
 ## 3. PREMISSAS
 
-O Sistema Gestaopublicagov.br utiliza conexão com a internet nos ambientes de produção e
-treinamento. Para acessar a tela inicial do sistema, o usuário deverá digitar o link do sistema no
-navegador de internet desejado. Recomenda-se a utilização dos navegadores Google Chrome ou
-Firefox, nas suas últimas versões disponíveis.
+O Sistema Gestaopublicagov.br utiliza conexão com a internet nos ambientes de produção e treinamento. Para acessar a tela inicial do sistema, o usuário deverá digitar o link do sistema no navegador de internet desejado. Recomenda-se a utilização dos navegadores Google Chrome ou Firefox, nas suas últimas versões disponíveis.
 
 ## 4. PRIMEIROS PASSOS PARA UTILIZAÇÃO DO SISTEMA DO MODELO DE GOVERNANÇA E GESTÃO PÚBLICA
 
 ### 4.1 Autenticando-se no sistema
 
-O Sistema Gestaopublicagov.br é integrado ao gov.br, dessa forma, o usuário, para acessar o
-sistema, deverá, obrigatoriamente, ter cadastro no gov.br.
+O Sistema Gestaopublicagov.br é integrado ao gov.br, dessa forma, o usuário, para acessar o sistema, deverá, obrigatoriamente, ter cadastro no gov.br.
 1. Abra o navegador (browser) de sua preferência.
 2. Para ter acesso ao ambiente de produção, digite https://smeg.economia.gov.br e pressione Enter.
-Para ter acesso ao ambiente de treinamento, digite https://modulos-hom.plataformamaisbrasil.gov.br e pressione Enter. Atenção! Para navegar no ambiente de treinamento, é necessário a criação de um usuário de demonstração pela Secretaria-Executiva da Rede de Parcerias.
-Para solicitá-lo, envie e-mail para treinamento.transferencias@economia.gov.br, informando a quantidade de usuários necessários e a justificativa.
+Para ter acesso ao ambiente de treinamento, digite https://modulos-hom.plataformamaisbrasil.gov.br e pressione Enter. Atenção! Para navegar no ambiente de treinamento, é necessário a criação de um usuário de demonstração pela Secretaria-Executiva da Rede de Parcerias. Para solicitá-lo, envie e-mail para treinamento.transferencias@economia.gov.br, informando a quantidade de usuários necessários e a justificativa.
 3. Aguarde o carregamento da tela inicial, conforme Figura 1.
 4. Clique na opção Entrar com gov.br. Você será direcionado ao site gov.br, onde deverá informar as suas credenciais (CPF e senha), conforme Figuras 2 e 3.
 5. Caso não possua cadastro no portal gov.br, você será redirecionado à página de opção de criação de uma conta gov.br.
@@ -56,13 +51,7 @@ Para solicitá-lo, envie e-mail para treinamento.transferencias@economia.gov.br,
 
 ## 5. MÓDULOS
 
-Ao acessar o Sistema Gestaopublicagov.br, será apresentada a tela da Figura 6, que exibirá barra
-lateral à esquerda, com o menu Meus Módulos e a versão atual do sistema. Na parte superior da tela,
-será exibida a instituição principal do usuário (CNPJ e nome) e, no menu superior à direita, a
-identificação deste.
-Nessa tela, também serão exibidos os módulos do Transferegov.br aos quais o usuário tem acesso.
-No caso da tela apresentada, é exibido apenas o módulo Gestaopublicagov.br. Para acesso ao sistema,
-o usuário deverá clicar sobre a logo do Sistema Gestaopublicagov.br.
+Ao acessar o Sistema Gestaopublicagov.br, será apresentada a tela da Figura 6, que exibirá barra lateral à esquerda, com o menu Meus Módulos e a versão atual do sistema. Na parte superior da tela, será exibida a instituição principal do usuário (CNPJ e nome) e, no menu superior à direita, a identificação deste. Nessa tela, também serão exibidos os módulos do Transferegov.br aos quais o usuário tem acesso. No caso da tela apresentada, é exibido apenas o módulo Gestaopublicagov.br. Para acesso ao sistema, o usuário deverá clicar sobre a logo do Sistema Gestaopublicagov.br.
 
 ![Figura 4 – Autorização de uso de dados pessoais](./images/manual_p6_5_Image94.png)  
 *(Figura 4 – Autorização de uso de dados pessoais)*
@@ -70,10 +59,7 @@ o usuário deverá clicar sobre a logo do Sistema Gestaopublicagov.br.
 ![Figura 5 – Tela de cadastro do usuário do Sistema Gestaopublicagov.br](./images/manual_p6_6_Image95.png)  
 *(Figura 5 – Tela de cadastro do usuário do Sistema Gestaopublicagov.br)*
 
-Caso seja o primeiro acesso do usuário cadastrado com o perfil Presidente do Comitê de Aplicação,
-será exibido o Termo de Adesão, conforme Figura 7. Após o seu aceite ao Termo de Adesão, o usuário
-terá acesso ao sistema, sendo possível iniciar a aplicação de um Instrumento de Maturidade de
-Governança e Gestão (IMGG).
+Caso seja o primeiro acesso do usuário cadastrado com o perfil Presidente do Comitê de Aplicação, será exibido o Termo de Adesão, conforme Figura 7. Após o seu aceite ao Termo de Adesão, o usuário terá acesso ao sistema, sendo possível iniciar a aplicação de um Instrumento de Maturidade de Governança e Gestão (IMGG).
 
 ![Figura 6 – Tela Meus Módulos](./images/manual_p7_7_Image97.png)  
 *(Figura 6 – Tela Meus Módulos)*
@@ -85,9 +71,7 @@ Governança e Gestão (IMGG).
 
 ### 6.1 Menu PÁGINA INICIAL
 
-Ao acessar o módulo do Gestaopublicagov.br, o usuário será direcionado à tela inicial do sistema, correspondente ao menu Página Inicial.
-Durante todo o uso do sistema, o usuário visualizará barra lateral à esquerda, com os principais menus e a versão do sistema, a instituição principal (CNPJ e nome), na parte superior da tela, e o menu superior à direita, com a identificação do usuário.
-De acordo com o(s) perfil(is) do usuário, serão exibidos menus distintos na barra lateral de menus:
+Ao acessar o módulo do Gestaopublicagov.br, o usuário será direcionado à tela inicial do sistema, correspondente ao menu Página Inicial. Durante todo o uso do sistema, o usuário visualizará barra lateral à esquerda, com os principais menus e a versão do sistema, a instituição principal (CNPJ e nome), na parte superior da tela, e o menu superior à direita, com a identificação do usuário. De acordo com o(s) perfil(is) do usuário, serão exibidos menus distintos na barra lateral de menus:
 * Presidente do Comitê de Aplicação: Meus Módulos, Página Inicial, IMGG e Administrativo (Figura 8);
 * Membro do Comitê de Aplicação: Meus Módulos, Página Inicial e IMGG (Figura 9);
 * Coordenador da Rede de Parcerias Federal: Meus Módulos, Página Inicial, IMGG e Administrativo (Figura 10);
@@ -112,9 +96,7 @@ Em Perfil(s), na parte superior da tela, à direita, conforme Figura 13, o usuá
 ![Figura 12 – Coordenador da Rede de Parcerias Municipal](./images/manual_p10_13_Image106.png)  
 *(Figura 12 – Coordenador da Rede de Parcerias Municipal)*
 
-Caso a instituição tenha algum instrumento cadastrado, por meio do ícone de consulta, será apresentada a tela da Figura 14.
-Ao clicarmos em Meu Cadastro, será apresentada a tela da Figura 15, com os dados do usuário.
-Ao clicarmos em Sair, o usuário sairá do sistema, retornando à tela de acesso.
+Caso a instituição tenha algum instrumento cadastrado, por meio do ícone de consulta, será apresentada a tela da Figura 14. Ao clicarmos em Meu Cadastro, será apresentada a tela da Figura 15, com os dados do usuário. Ao clicarmos em Sair, o usuário sairá do sistema, retornando à tela de acesso.
 
 ![Figura 13 – Perfil(is) do Usuário](./images/manual_p11_14_Image108.png)  
 *(Figura 13 – Perfil(is) do Usuário)*
@@ -152,29 +134,17 @@ Ao clicarmos no submenu Aplicação, será apresentada tela de acompanhamento do
 ![Figura 19 – Coordenador da Rede de Parcerias Estadual](./images/manual_p14_24_Image121.png)  
 *(Figura 19 – Coordenador da Rede de Parcerias Estadual)*
 
-Exclusivamente no perfil de Presidente do Comitê de Aplicação, será exibido o botão Iniciar
-Aplicação de Instrumento, conforme tela da Figura 16. Ao clicarmos nesse botão, o usuário cadastrado
-com o perfil Presidente do Comitê de Aplicação visualizará a tela da Figura 21, dando início a uma
-aplicação de Instrumento de Melhoria de Governança e Gestão pela instituição.
+Exclusivamente no perfil de Presidente do Comitê de Aplicação, será exibido o botão Iniciar Aplicação de Instrumento, conforme tela da Figura 16. Ao clicarmos nesse botão, o usuário cadastrado com o perfil Presidente do Comitê de Aplicação visualizará a tela da Figura 21, dando início a uma aplicação de Instrumento de Melhoria de Governança e Gestão pela instituição.
 
 ![Figura 20 – Coordenador da Rede de Parcerias Municipal](./images/manual_p15_25_Image123.png)  
 *(Figura 20 – Coordenador da Rede de Parcerias Municipal)*
 
 Atenção! Para os procedimentos para aplicação do Instrumento de Maturidade de Governança e
-Gestão – IMGG 100 pontos, consulte o Guia do Instrumento de Maturidade de Governança e Gestão
-100 pontos, no Portal Transferegov.br, na sessão dedicada ao Gestaopublica.gov.br, disponível em
-https://www.gov.br/transferegov/pt-br/modelo/sobre/sobre-modelo.
+Gestão – IMGG 100 pontos, consulte o Guia do Instrumento de Maturidade de Governança e Gestão 100 pontos, no Portal Transferegov.br, na sessão dedicada ao Gestaopublica.gov.br, disponível em https://www.gov.br/transferegov/pt-br/modelo/sobre/sobre-modelo.
 
 #### 6.2.2 Submenu Monitoramento
 
-Ao clicarmos no submenu Monitoramento, visível apenas pelos perfis Presidente do Comitê de
-Aplicação e Membro do Comitê de Aplicação, será apresentada tela com a lista Monitoração dos
-Planos de Melhoria (Figuras  22 e 23), que relaciona os Planos de Melhoria de Governança e Gestão
-(PMGGs) habilitados pela instituição do usuário, quando da aplicação de um IMGG, subdividida pelas
-colunas Instrumento de Aplicação, Plano de Melhoria, Data Início, Periodicidade de Aplicação,
-Periodicidade de Avalição e Ação.
-Ao clicamos no botão Iniciar Novo Monitoramento, será apresentada tela inicial para a etapa
-de monitoramento (Figuras 24 e 25).
+Ao clicarmos no submenu Monitoramento, visível apenas pelos perfis Presidente do Comitê de Aplicação e Membro do Comitê de Aplicação, será apresentada tela com a lista Monitoração dos Planos de Melhoria (Figuras  22 e 23), que relaciona os Planos de Melhoria de Governança e Gestão (PMGGs) habilitados pela instituição do usuário, quando da aplicação de um IMGG, subdividida pelas colunas Instrumento de Aplicação, Plano de Melhoria, Data Início, Periodicidade de Aplicação, Periodicidade de Avalição e Ação. Ao clicamos no botão Iniciar Novo Monitoramento, será apresentada tela inicial para a etapa de monitoramento (Figuras 24 e 25).
 
 ![Figura 23 – Membro do Comitê de Aplicação](./images/manual_p17_28_Image129.png)  
 *(Figura 23 – Membro do Comitê de Aplicação)*
@@ -183,29 +153,18 @@ de monitoramento (Figuras 24 e 25).
 *(Figura 24 – Presidente Comitê de Aplicação)*
 
 Atenção! Para ter acesso ao passo a passo de como realizar a etapa de monitoramento no Sistema
-Gestaopublicagov.br, consulte o Guia do Instrumento de Maturidade de Governança e Gestão 100
-pontos, no Portal Transferegov.br, na sessão dedicada ao Gestaopublica.gov.br, disponível em
-https://www.gov.br/transferegov/pt-br/modelo/sobre/sobre-modelo.
+Gestaopublicagov.br, consulte o Guia do Instrumento de Maturidade de Governança e Gestão 100 pontos, no Portal Transferegov.br, na sessão dedicada ao Gestaopublica.gov.br, disponível em https://www.gov.br/transferegov/pt-br/modelo/sobre/sobre-modelo.
 
 #### 6.2.3 Submenu Termos de Adesão
 
-Ao clicamos no submenu Termos de Adesão, visível apenas para o usuário cadastrado com o perfil
-“Presidente do Comitê de Aplicação”, será apresentada a tela da Figura 26, que exibirá lista com a
-relação dos termos aceitos pelo usuário no sistema, termos de adesão e termos de validador (este
-último, caso o usuário também tenha atuado como Validador Externo), subdividida pelas colunas
-Organização, Data, Usuário, Termo e Status (Ativo ou Inativo) e Ação. É possível imprimir o termo por
-meio do ícone
-disponível no menu Ação.
+Ao clicamos no submenu Termos de Adesão, visível apenas para o usuário cadastrado com o perfil “Presidente do Comitê de Aplicação”, será apresentada a tela da Figura 26, que exibirá lista com a relação dos termos aceitos pelo usuário no sistema, termos de adesão e termos de validador (este último, caso o usuário também tenha atuado como Validador Externo), subdividida pelas colunas Organização, Data, Usuário, Termo e Status (Ativo ou Inativo) e Ação. É possível imprimir o termo por meio do ícone disponível no menu Ação.
 
 ![Figura 25 – Membro do Comitê de Aplicação](./images/manual_p18_30_Image133.png)  
 *(Figura 25 – Membro do Comitê de Aplicação)*
 
 #### 6.2.4 Submenu FAQ
 
-Ao clicamos no submenu FAQ, visível por todos os perfis, será apresentada tela com campo de
-consulta e lista com as perguntas frequentes já cadastradas no sistema, subdividida pelas colunas
-Pergunta, Status (Ativo ou Inativo) e Ação (Figuras 27-31). Ao se clicar em +, ao lado do nome da
-pergunta, será apresentada a resposta à pergunta desejada.
+Ao clicamos no submenu FAQ, visível por todos os perfis, será apresentada tela com campo de consulta e lista com as perguntas frequentes já cadastradas no sistema, subdividida pelas colunas Pergunta, Status (Ativo ou Inativo) e Ação (Figuras 27-31). Ao se clicar em +, ao lado do nome da pergunta, será apresentada a resposta à pergunta desejada.
 
 ![Figura 26 – Presidente Comitê de Aplicação](./images/manual_p19_32_Image136.png)  
 *(Figura 26 – Presidente Comitê de Aplicação)*
@@ -218,10 +177,7 @@ pergunta, será apresentada a resposta à pergunta desejada.
 
 #### 6.2.5 Submenu Glossário
 
-Ao clicamos no submenu Glossário, visível por todos os perfis, será apresentada tela com campo
-de consulta e lista com os termos do glossário já cadastrados no sistema, subdividida pelas colunas
-Nome, Status (Ativo ou Inativo) e Ação (Figuras 32-36). Ao se clicar em +, ao lado do nome do termo,
-será apresentada a definição deste.
+Ao clicamos no submenu Glossário, visível por todos os perfis, será apresentada tela com campo de consulta e lista com os termos do glossário já cadastrados no sistema, subdividida pelas colunas Nome, Status (Ativo ou Inativo) e Ação (Figuras 32-36). Ao se clicar em +, ao lado do nome do termo, será apresentada a definição deste.
 
 ![Figura 30 – Coordenador da Rede de Parcerias Estadual](./images/manual_p21_36_Image142.png)  
 *(Figura 30 – Coordenador da Rede de Parcerias Estadual)*
@@ -243,29 +199,14 @@ será apresentada a definição deste.
 
 ### 6.3 Menu Administrativo
 
-Ao clicarmos no menu Administrativo, visível apenas pelo usuário cadastrado com o perfil
-Presidente do Comitê de Aplicação e Coordenador da Rede de Parcerias Estadual/Federal/Municipal,
-será exibida tela com campo para consulta de usuários e lista dos usuários ativos e inativos cadastrados
-no sistema, subdividida pelas colunas CPF, Nome, Perfil e Ação (com possibilidade de
-ativação/inativação do usuário).
+Ao clicarmos no menu Administrativo, visível apenas pelo usuário cadastrado com o perfil Presidente do Comitê de Aplicação e Coordenador da Rede de Parcerias Estadual/Federal/Municipal, será exibida tela com campo para consulta de usuários e lista dos usuários ativos e inativos cadastrados no sistema, subdividida pelas colunas CPF, Nome, Perfil e Ação (com possibilidade de ativação/inativação do usuário).
 * Presidente do Comitê de Aplicação:  visualizará os usuários que sejam de sua instituição;
 * Coordenador da Rede de Parcerias Estadual/Federal/Municipal: visualizará os usuários
 pertencentes ao seu âmbito de atuação.
 
 #### 6.3.1 Submenu Usuários
 
-Ao clicarmos no submenu Usuários, será apresentada a tela que exibe campo de consulta e a lista
-Usuários, que relaciona os usuários da instituição cadastrados no sistema que sejam da mesma
-instituição e/ou área de atuação do usuário logado no sistema (Figuras 37 – 40), subdividida pelas
-colunas CPF, Nome, Perfil e Ação. Na coluna Ação, é possível ativar ou inativar o usuário.
-Ao se clicar em +, na lista de usuários apresentados, serão exibidos os dados do cadastro do
-usuário.
-Os usuários inativos estarão sinalizados por
-ou apenas em destaque
-.
-A ativação ou inativação do usuário se dará, respectivamente, pelos ícones
-na coluna
-Ação.
+Ao clicarmos no submenu Usuários, será apresentada a tela que exibe campo de consulta e a lista Usuários, que relaciona os usuários da instituição cadastrados no sistema que sejam da mesma instituição e/ou área de atuação do usuário logado no sistema (Figuras 37 – 40), subdividida pelas colunas CPF, Nome, Perfil e Ação. Na coluna Ação, é possível ativar ou inativar o usuário. Ao se clicar em +, na lista de usuários apresentados, serão exibidos os dados do cadastro do usuário. Os usuários inativos estarão sinalizados por ou apenas em destaque . A ativação ou inativação do usuário se dará, respectivamente, pelos ícones na coluna Ação.
 
 ![Figura 36 – Coordenador Rede de Parcerias Municipal](./images/manual_p24_42_Image151.png)  
 *(Figura 36 – Coordenador Rede de Parcerias Municipal)*
@@ -278,10 +219,7 @@ Ação.
 
 #### 6.3.2 Submenu Perfis do Sistema
 
-Ao clicarmos no submenu Perfis do Sistema, disponível apenas para usuário cadastrado com o
-perfil Presidente do Comite de Aplicação, será apresentada a tela da Figura 41, em que é exibida a lista
-Perfis, que relaciona os perfis cadastrados no sistema, subdividida pelas colunas Nome, Módulo, Global
-(sim/não) e Ação.
+Ao clicarmos no submenu Perfis do Sistema, disponível apenas para usuário cadastrado com o perfil Presidente do Comite de Aplicação, será apresentada a tela da Figura 41, em que é exibida a lista Perfis, que relaciona os perfis cadastrados no sistema, subdividida pelas colunas Nome, Módulo, Global (sim/não) e Ação.
 
 ![Figura 39 – Coordenadores da Rede de Parcerias Estadual](./images/manual_p26_49_Image160.png)  
 *(Figura 39 – Coordenadores da Rede de Parcerias Estadual)*
@@ -289,19 +227,11 @@ Perfis, que relaciona os perfis cadastrados no sistema, subdividida pelas coluna
 ![Figura 40 – Coordenadores da Rede de Parcerias Municipal](./images/manual_p26_50_Image161.png)  
 *(Figura 40 – Coordenadores da Rede de Parcerias Municipal)*
 
-Ao se clicar em +, na lista de perfis apresentados, serão relacionadas as permissões do perfil dentro
-do sistema, conforme demonstrado na Figura 41.
+Ao se clicar em +, na lista de perfis apresentados, serão relacionadas as permissões do perfil dentro do sistema, conforme demonstrado na Figura 41.
 
 ## 7. PRINCIPAIS TELAS PARA APLICAÇÃO DO INSTRUMENTO DE MATURIDADE DE GOVERNANÇA
 
-E GESTÃO 100 PONTOS (IMGG 100 PONTOS)
-As telas abaixo relacionadas (Figuras 42 – 51) referem-se às principais telas utilizadas para a
-aplicação do Instrumento de Maturidade de Governança e Gestão 100 pontos, que compreende a
-etapa de Cadastro a Organização até o Relatório Preliminar.  No entanto, para ter acesso ao passo a
-passo  para aplicação do IMGG 100 pontos, consulte o Guia do Instrumento de Maturidade de
-Governança e Gestão - IMGG 100 pontos, no Portal Transferegov.br, na sessão dedicada ao
-Gestaopublica.gov.br, disponível em https://www.gov.br/transferegov/pt-br/modelo/sobre/sobre-
-modelo.
+E GESTÃO 100 PONTOS (IMGG 100 PONTOS) As telas abaixo relacionadas (Figuras 42 – 51) referem-se às principais telas utilizadas para a aplicação do Instrumento de Maturidade de Governança e Gestão 100 pontos, que compreende a etapa de Cadastro a Organização até o Relatório Preliminar.  No entanto, para ter acesso ao passo a passo  para aplicação do IMGG 100 pontos, consulte o Guia do Instrumento de Maturidade de Governança e Gestão - IMGG 100 pontos, no Portal Transferegov.br, na sessão dedicada ao Gestaopublica.gov.br, disponível em https://www.gov.br/transferegov/pt-br/modelo/sobre/sobremodelo.
 
 ![Figura 41 – Presidente do Comitê de Aplicação](./images/manual_p27_51_Image165.png)  
 *(Figura 41 – Presidente do Comitê de Aplicação)*

@@ -20,6 +20,9 @@
         "skills/gestaogov/references/Portaria_7383.md",
         "skills/gestaogov/references/manual_do_usuario.md",
         "skills/gestaogov/references/modelo_de_governanca.md"
+      ],
+      "templates": [
+        "skills/gestaogov/templates/parecer_detalhado.md"
       ]
     }
   ]

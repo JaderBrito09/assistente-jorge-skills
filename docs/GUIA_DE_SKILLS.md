@@ -229,5 +229,29 @@ Instrua o modelo no `System Prompt` a retornar um bloco de código `json` do tip
   * **`label`** *(obrigatório)*: Texto exibido no botão.
   * **`value`** *(opcional)*: Texto enviado automaticamente como resposta do usuário ao clicar.
   * **`badge`** *(opcional)*: Destaque visual (ex: `"Recomendado"`, `"Crítico"`, `"Novo"`).
+  * **`action`** *(opcional)*: Use `"upload_file"` (ou `"attach_file"`) para que o clique no botão abra diretamente a janela nativa do sistema operacional para seleção/upload de arquivos.
+  * **`accept`** *(opcional)*: Filtro de extensões de arquivo ao acionar `"upload_file"` (ex: `".pdf,.docx,.txt"`).
+
+#### Exemplo de Janela Interativa solicitando inclusão de documento:
+
+```json
+{
+  "type": "interactive_prompt",
+  "title": "Para prosseguir com a validação, é necessário incluir a minuta do edital em PDF ou DOCX.",
+  "options": [
+    {
+      "label": "📎 Selecionar e Anexar Documento",
+      "action": "upload_file",
+      "accept": ".pdf,.docx,.txt",
+      "badge": "Upload Direct"
+    },
+    {
+      "label": "⏩ Prosseguir sem documento",
+      "value": "Prosseguir com a análise considerando apenas o texto extraído da página web."
+    }
+  ]
+}
+```
+
 
 
