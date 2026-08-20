@@ -68,4 +68,4 @@
 [Texto analítico conclusivo sintetizando a avaliação global do órgão, destacando os pontos fortes observados na governança e as áreas prioritárias que exigem atenção da alta administração para o próximo ciclo de avaliação].
 
 ---
-*Documento emitido eletronicamente pelo Sistema de Inteligência Analítica - Assistente do Jorge conforme diretrizes do Modelo de Governança e Gestão Pública (Gestaopublicagov.br).*
+*Documento emitido eletronicamente pelo Sistema de Inteligência Analítica - Validador Externo IMGG (Jorgete) conforme diretrizes do Modelo de Governança e Gestão Pública (Gestaopublicagov.br).*
