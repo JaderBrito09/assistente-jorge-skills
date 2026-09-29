@@ -24,10 +24,6 @@ Em seguida, exiba a janela interativa:
       "badge": "Recomendado"
     },
     {
-      "label": "🎓 Validação de Mérito",
-      "value": "Realize a auditoria completa de mérito do Validador Externo na tela ativa, checando os fatores de Adequação, Continuidade e temporalidade das evidências (1 a 3 anos)."
-    },
-    {
       "label": "❓ Dúvidas do Critério",
       "value": "Explique as exigências metodológicas, termos do glossário e modelos de evidências para o critério/tela ativa com base no Guia IMGG e normativas."
     }
